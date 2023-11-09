@@ -50,7 +50,7 @@ with st.form(key='profile_form'):
 
 
 # データ分析
-df = pd.read_excel('sanada.xlsx', sheet_name=None)
+# df = pd.read_excel('sanada.xlsx', sheet_name=None)
 # st.bar_chart(df['202301']) 棒グラフの表示
 # st.line_chart(df) #チャート表示され利
 # st.dataframe(df) # データを表示
